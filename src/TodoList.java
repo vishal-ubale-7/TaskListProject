@@ -80,6 +80,7 @@ public class TodoList           // This is main class.
                     System.out.println("Exiting..."); //Shows exit message and stops the program.
                     System.exit(0);
                     break;
+                    
                 default:
                     System.out.println("Invalid option"); //If user enters any number other than 1–4, this message is shown.
             }
